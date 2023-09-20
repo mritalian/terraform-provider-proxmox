@@ -1,5 +1,18 @@
 # Changelog
 
+## [0.32.1](https://github.com/bpg/terraform-provider-proxmox/compare/v0.32.0...v0.32.1) (2023-09-20)
+
+
+### Bug Fixes
+
+* **network:** remove computed flag from mtu attribute ([#572](https://github.com/bpg/terraform-provider-proxmox/issues/572)) ([5720fe4](https://github.com/bpg/terraform-provider-proxmox/commit/5720fe4673873166e7dbf7bc687b57837b99b117))
+
+
+### Miscellaneous
+
+* **code:** re-organize and cleanup "fwk provider"'s code ([#568](https://github.com/bpg/terraform-provider-proxmox/issues/568)) ([7d064a8](https://github.com/bpg/terraform-provider-proxmox/commit/7d064a8b27d78a1564c9da914f17340966d955d1))
+* **docs:** add a note about DCO to CONTRIBUTING.md ([#574](https://github.com/bpg/terraform-provider-proxmox/issues/574)) ([d0c9b45](https://github.com/bpg/terraform-provider-proxmox/commit/d0c9b4594d46c327b5a0f09288ac5b88a48af61e))
+
 ## [0.32.0](https://github.com/bpg/terraform-provider-proxmox/compare/v0.31.0...v0.32.0) (2023-09-13)
 
 
